@@ -212,6 +212,7 @@ function create_config( )
     "Boobs",
     "sendsticker",
     "Feedback",
+    "wordfilter1",
     "lock_join",
     "antilink",
     "antitag",
